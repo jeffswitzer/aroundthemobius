@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Vector Spaces on around the mobius</title>
+    <link>/tags/vector-spaces/index.xml</link>
+    <description>Recent content in Vector Spaces on around the mobius</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="/tags/vector-spaces/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Linear Algebra Done Right - Vector Spaces</title>
+      <link>/post/welcome/</link>
+      <pubDate>Sun, 12 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/welcome/</guid>
+      <description>
+
+&lt;h2 id=&#34;exercises-1-a&#34;&gt;EXERCISES 1.A&lt;/h2&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Suppose \(a\) and \(b\) are real numbers, not both \(0\). Find real numbers \(c\) and \(d\) such that
+$$1/(a+bi)=c+di.$$&lt;/li&gt;
+&lt;li&gt;Show that $$-1+\sqrt{3i} \over 2.$$ is a cube root of \(1\) (meaning that its cube root equals \(1\)).&lt;/li&gt;
+&lt;li&gt;Find two distinct square roots of \(i\).&lt;/li&gt;
+&lt;li&gt;Show that \(\alpha + \beta = \beta + \alpha\) for all \(\alpha, \beta \in \mathbb{C}.\)
+Testing out the Hugo.
+When \(a \ne 0\), there are two solutions to \(ax^2 + bx + c = 0\) and they are
+$$x = {-b \pm \sqrt{b^2-4ac} \over 2a}.$$&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Try this &lt;a href=&#34;www.google.com&#34;&gt;link&lt;/a&gt; yes dsf jhsdf hjfskl jfhsdfh sdlfkjhsd jkfhsd kfhsdhflsdjfh jksdhhsjfdk l!&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
